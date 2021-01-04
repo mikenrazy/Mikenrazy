@@ -45,7 +45,8 @@ Future scope of Improvements:
     	Chat Support Between Officers can be added.
     	Location of crime will be automatically detected just by pointing on the map. 
 
-Screenshots (Few) : 
+Screenshots (Few) :
+    ![](screenshot/home.jpg)
     ![](screenshot/admin.jpg)
     ![](screenshot/citizen.jpg)
     ![](screenshot/head.jpg)
