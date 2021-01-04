@@ -47,8 +47,10 @@ Future scope of Improvements:
     	Location of crime will be automatically detected just by pointing on the map. 
 
 Screenshots (Few) : 
-    ![](screenshot/home.jpg)
-    ![](screenshot/complain.jpg)
-    ![](screenshot/history.jpg)
-    ![](screenshot/head.jpg)
+    ![](screenshot/admin.png)
+    ![](screenshot/citizen.png)
+    ![](screenshot/head.png)
+    ![](screenshot/officer.png)
+    ![](screenshot/police.png)
+    
   
