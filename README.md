@@ -1,17 +1,17 @@
-# E-Crime-Management-System
-PHP Training Project: It is a website where user can log an FIR online. This website has 4 module- Head-quarter, Incharge, Police, User. It is multifunctional website with back end support
+# Criminal Management System
+PHP Project: It is a website  based system. This website has 4 module- Head-quarter, Incharge, Police, User. It is multifunctional website with back end support
   Project Objective:
-  1. •	To provide an online platform where user can log a FIR at ease.
+  1. •	To provide an online platform where user can log in at ease.
   2. •	Complainant can see the regular update of the filed case.
   3. •	Head Quarter can easily monitor the update of individual case.
   4. •	To provide transparency in working system of the case.
-  5. •	It will reduce the bribe.
+  
   
 Project Scope :  
   Complainant Module:-
 
-	Complainant can file an FIR online and can see the regular update of the filed case. 
-	He/She can file multiple FIR .
+	Complainant can file online and can see the regular update of the filed case. 
+	He/She can file multiple  cases .
 
 
 HQ Module:- 
@@ -42,7 +42,6 @@ Police Module:-
 Future scope of Improvements:
     	OTP verification can be added to authenticate the user.
     	Data Sharing between police station can be incorporated.
-    	Wanted Criminal reward system can be added.
     	Chat Support Between Officers can be added.
     	Location of crime will be automatically detected just by pointing on the map. 
 
