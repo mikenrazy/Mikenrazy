@@ -1,3 +1,39 @@
+# Experienced IT specialist with a demonstrated history of working in the computer networking industry. Creative developer/innovator in love of independence, with a passion for designing beautiful and functional systems.
+
+
+<img width="1602" height="776" alt="d" src="https://github.com/user-attachments/assets/48d559e4-89d8-44ce-89ba-2df32cdbbd86" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Criminal Management System
 PHP Project: It is a website  based system. This website has 4 module- Head-quarter, Incharge, Police, User. It is multifunctional website with back end support
   Project Objective:
