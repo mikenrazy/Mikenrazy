@@ -1,56 +1,24 @@
-# Criminal Management System
-PHP Project: It is a website  based system. This website has 4 module- Head-quarter, Incharge, Police, User. It is multifunctional website with back end support
-  Project Objective:
-  1. •	To provide an online platform where user can log in at ease.
-  2. •	Complainant can see the regular update of the filed case.
-  3. •	Head Quarter can easily monitor the update of individual case.
-  4. •	To provide transparency in working system of the case.
-  
-  
-Project Scope :  
-  Complainant Module:-
+Hi there, I’m Michael Odongo (mikenrazy) 👋
+A passionate full-stack web developer based in Nairobi, Kenya, crafting solutions that empower and streamline vital operations.
 
-	Complainant can file online and can see the regular update of the filed case. 
-	He/She can file multiple  cases .
+My projects span:
 
+Criminal Management System (PHP)
+A modular, web-based platform with role-based access (Headquarters, In-charge, Police, User), providing seamless case filing, monitoring, and transparency.
 
-HQ Module:- 
+Educational Web Projects
 
-	HQ can monitor every case.
- 
-	HQ can add or delete the police station.
+lecture0 & lecture1: HTML-based code demos and learning exercises.
 
-	HQ will provide login credential to Incharge. 
+Kenya: A modern responsive website featuring HTML, CSS, and SCSS design.
 
-Incharge Module:-
+Specialized Tools
 
+BibWord: An XSLT extension to enrich Microsoft Word bibliographies.
 
-	Incharge can see the case allocated to his location.
+Always learning, forever building.
+Recently, I've been enhancing backend workflows and exploring full-stack integrations. Looking ahead, I’m excited to add authentication features, real-time communication (chat), and interactive geolocation to my projects.
 
-	He/She can add police officers for his/her location. 
+Let’s collaborate or chat! Feel free to reach out—I’m all about sharing ideas and creating impact.
 
-	Incharge will assign the case to each police.
-
-	Incharge will provide login credential to Police.
-
-Police Module:-
-
-	Police can only see the details of that case which has been assigned by the Incharge.
-	Police can update the status of each case.
-	Police can close the case and file the chargesheet.
-
-Future scope of Improvements:
-    	OTP verification can be added to authenticate the user.
-    	Data Sharing between police station can be incorporated.
-    	Chat Support Between Officers can be added.
-    	Location of crime will be automatically detected just by pointing on the map. 
-
-Screenshots (Few) :
-    ![](screenshot/home.jpg)
-    ![](screenshot/admin.jpg)
-    ![](screenshot/citizen.jpg)
-    ![](screenshot/head.jpg)
-    ![](screenshot/officer.jpg)
-    ![](screenshot/police.jpg)
-    
-  
+What do you think of this draft? Let me know if you'd like to tweak the tone, adjust any highlights, or add more personal touches—I’m happy to refine it to match your style!
